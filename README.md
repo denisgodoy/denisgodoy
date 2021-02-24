@@ -1,5 +1,5 @@
 ### Hi there, I'm Denis --[@denisgodoy](https://www.linkedin.com/in/denisgodoy/)
-##### Full Stack Web Development student at *Digital House Brasil*, based in São Paulo, Brazil :earth_americas:
+Full Stack Web Development student at *Digital House Brasil*, based in São Paulo, Brazil :earth_americas:
 
 ##### :beginner: Learning 
 ![node.js](https://img.shields.io/badge/node.js-3C873A) 
