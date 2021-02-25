@@ -4,7 +4,7 @@ Full Stack Web Development student at *Digital House Brasil*, based in São Paul
 ##### :beginner: Learning 
 ![node.js](https://img.shields.io/badge/node.js-3C873A) 
 ![typescript](https://img.shields.io/badge/typescript-007acc)
-![react.js](https://img.shields.io/badge/react.js-61DBFB)
+![react](https://img.shields.io/badge/react-61DBFB)
 ![sass](https://img.shields.io/badge/sass-cd6799 )
 
 ##### :rocket: Knowledges 
