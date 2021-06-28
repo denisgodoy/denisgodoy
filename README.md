@@ -1,22 +1,19 @@
-### Hi there, I'm Denis --[@denisgodoy](https://www.linkedin.com/in/denisgodoy/)
-Full Stack Web Development student at *Digital House Brasil*, based in São Paulo, Brazil :earth_americas:
+### Hi there, I'm Denis
 
-##### :beginner: Learning 
-![node.js](https://img.shields.io/badge/node.js-3C873A) 
-![typescript](https://img.shields.io/badge/typescript-007acc)
-![react](https://img.shields.io/badge/react-61DBFB)
-![sass](https://img.shields.io/badge/sass-cd6799 )
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denisgodoy/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:godoydenis@outlook.com.br)
+[![42 Badge](https://img.shields.io/badge/-degabrie-000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/degabrie)
+
+👨‍🚀 Cadet at [42 São Paulo](http://42sp.org.br)  
+👨‍💻 FullStack Web Developer  
+🔰 Currently learning C  
+🌎 Living in São Paulo, Brazil
 
 ##### :rocket: Knowledges 
+![javascript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=Javascript&logoColor=black)
+![node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white)
+![python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=C&logoColor=white)
+ 
+ ***
 
-![javascript](https://img.shields.io/badge/javascript-f7df1e)
-![python](https://img.shields.io/badge/python-306998) 
-![django](https://img.shields.io/badge/django-092e20) 
-![html](https://img.shields.io/badge/html-e34f26) 
-![css](https://img.shields.io/badge/css-264de4)
-
-##### :computer: Technologies 
-
-![adobexd](https://img.shields.io/badge/xd-purple)
-![adobeillustrator](https://img.shields.io/badge/illustrator-orange)
-![adobephotoshop](https://img.shields.io/badge/photoshop-blue)
+> "Programming isn't about what you **know**; it's about what you can **figure out**.” - Chris Pine
