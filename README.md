@@ -17,9 +17,11 @@
  
 ![javascript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=Javascript&logoColor=black)
 ![node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express-2b2b2b?style=flat-square&logo=Express&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=MySQL&logoColor=white)
 ![python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=Python&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
-![html](https://img.shields.io/badge/HTML-e34f26?style=flat-square) 
+![html](https://img.shields.io/badge/HTML-e34f26?style=flat-square)
 ![css](https://img.shields.io/badge/CSS-264de4?style=flat-square)
 
  ***
