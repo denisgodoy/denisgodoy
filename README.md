@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Email Badge](https://img.shields.io/badge/-Email-0f4c81?style=flat-square&logo=Gmail&logoColor=white)](mailto:godoydenis@outlook.com.br)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0f4c81?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denisgodoy/)
-[![42 Badge](https://img.shields.io/badge/-degabrie-0f4c81?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/degabrie)
+[![Email](https://img.shields.io/badge/-Email-0f4c81?style=flat-square&logo=Gmail&logoColor=white)](mailto:godoydenis@outlook.com.br)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0f4c81?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denisgodoy/)
+[![42](https://img.shields.io/badge/-degabrie-0f4c81?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/degabrie)
 
 👨‍🚀 Cadet at [42 São Paulo](http://42sp.org.br).  
 👨‍💻 Full Stack Web Developer.  
@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-264de4?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-2965f1?style=flat-square)
 
  ***
 
