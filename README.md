@@ -5,7 +5,6 @@
 [![42 Badge](https://img.shields.io/badge/-degabrie-0f4c81?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/degabrie)
 
 👨‍🚀 Cadet at [42 São Paulo](http://42sp.org.br).  
-💻 Software Engineering student.  
 👨‍💻 Full Stack Web Developer.  
 💭 Keen on technology and **more**.
 
