@@ -2,9 +2,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-0f4c81?style=flat-square&logo=Gmail&logoColor=white)](mailto:godoydenis@outlook.com.br)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0f4c81?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denisgodoy/)
-[![42](https://img.shields.io/badge/-degabrie-0f4c81?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/degabrie)
 
-👨‍🚀 Cadet at [42 São Paulo](http://42sp.org.br).  
 👨‍💻 Full Stack Web Developer.  
 💭 Keen on technology and **more**.
 
