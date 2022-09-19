@@ -20,7 +20,3 @@
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?style=flat-square)
-
- ***
-
-> “Programming isn't about what you **know**; it's about what you can **figure out.**” – Chris Pine.
